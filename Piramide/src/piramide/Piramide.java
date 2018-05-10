@@ -64,6 +64,8 @@ public class Piramide {
 		 }//for con i
 			 for(int j=0;j<base;j++)
 				 System.out.print("*");
+		
+		//Añadido Fer
 			 
 			 
 			 
